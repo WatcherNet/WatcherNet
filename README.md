@@ -9,4 +9,4 @@ In a DDoS attack, the attacker sends a lot of information to a target. This can 
 
 So how does this shut down someone's internet?
 
-When you are peforming actions on the internet such as watching a YouTube video, gaming, or surfing, the server of that website is sending you information to make that action possible. Your computer takes that information and translates it to display it. 
+When you are peforming actions on the internet such as watching a YouTube video, gaming, or surfing, the server of that website is sending you information to make that action possible. Here we will be showing you an example of packet exchange by watching a YouTube video.
