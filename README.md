@@ -15,4 +15,4 @@ Your computer is requesting packets from YouTube's server. These packets command
 
 DDoS attacks are just annoying to your average user but can be very dammaging towards companies and websites.
 
-People believe that quality service is expected from the websites that the go on. They believe that they are secure. When websites get DDoSed they lose that trust for the company. Unlike people, their ip is not encrypted. It is just out there because if it was encrypted companies won't be able to do the things they do. DDoS attacks ro companies can result in costumer frustration, lack of trust. 
+People believe that quality service is expected from the websites that the go on. They believe that they are secure. When websites get DDoSed they lose that trust for the company. Unlike people, their ip is not encrypted. It is just out there because if it was encrypted companies won't be able to do the things they do. DDoS attacks ro companies can result in costumer frustration, and or lack of trust. 
